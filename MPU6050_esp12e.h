@@ -34,10 +34,10 @@ THE SOFTWARE.
 ===============================================
 */
 
-#ifndef _MPU6050_H_
-#define _MPU6050_H_
+#ifndef _MPU6050_ESP12E_H_
+#define _MPU6050_ESP12E_H_
 
-#include "I2Cdev.h"
+#include "I2Cdev_esp12e.h"
 //#include <avr/pgmspace.h>
 
 #define min(a,b) ((a)<(b)?(a):(b))

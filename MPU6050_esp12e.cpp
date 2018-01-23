@@ -34,7 +34,7 @@ THE SOFTWARE.
 ===============================================
 */
 
-#include "MPU6050.h"
+#include "MPU6050_esp12e.h"
 
 /** Default constructor, uses default I2C address.
  * @see MPU6050_DEFAULT_ADDRESS
